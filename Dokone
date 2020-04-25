@@ -192,7 +192,7 @@ http://mantul.biz.id:8888/prem20/Premium123/265
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS",Spacetoon
 http://mantul.biz.id:8888/prem20/Premium123/156
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="KIDS",Animax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Animax_old_logo.png" group-title="KIDS",Animax
 http://mantul.biz.id:8888/prem20/Premium123/129
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDAOhOmO5cM9KRsF7D89NcVzhIOTVIEbaCaL0xLadujHdIV5ON" group-title="KIDS",ZooMoo
@@ -212,13 +212,13 @@ http://mantul.biz.id:8888/prem20/Premium123/186
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="MOVIES",HBO
 http://mantul.biz.id:8888/prem20/Premium123/1
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="MOVIES",HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIES",HBO Family
 http://mantul.biz.id:8888/prem20/Premium123/5
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="MOVIES",HBO Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",HBO Hits
 http://mantul.biz.id:8888/prem20/Premium123/3
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="MOVIES",HBO Signature
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/HBO_Signature_Asia.svg/revision/latest/scale-to-width-down/340?cb=20100511073847" group-title="MOVIES",HBO Signature
 http://mantul.biz.id:8888/prem20/Premium123/44
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQmnvIJdnzVVFi5Rpau-q5rbInVsiT-2E2fXJyu8E3OD7A2KzQ" group-title="MOVIES",Red by HBO
@@ -227,16 +227,16 @@ http://mantul.biz.id:8888/prem20/Premium123/242
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" group-title="MOVIES",Cinemax 
 http://mantul.biz.id:8888/prem20/Premium123/89
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="MOVIES",Fox
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ichc-channel/images/a/ac/Fox_logo.png/revision/latest?cb=20171027075814" group-title="MOVIES",Fox
 http://mantul.biz.id:8888/prem20/Premium123/9
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="MOVIES",Fox Movies Premium
+#EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="MOVIES",Fox Movies Premium
 http://mantul.biz.id:8888/prem20/Premium123/50
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="MOVIES",FOX Family Movies
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/342-3425115_ffm-livetv-fox-family-movies-logo-white-clipart.png" group-title="MOVIES",FOX Family Movies
 http://mantul.biz.id:8888/prem20/Premium123/131
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="MOVIES",Fox Action Movies
+#EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="MOVIES",Fox Action Movies
 http://mantul.biz.id:8888/prem20/Premium123/20
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" group-title="MOVIES",FOX Crime
@@ -245,10 +245,10 @@ http://mantul.biz.id:8888/prem20/Premium123/35
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947316656480518144/FEiA6XmM.jpg" group-title="MOVIES",Blue Ant Entertain
 http://mantul.biz.id:8888/prem20/Premium123/135
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/WarnerTV.id.png" group-title="MOVIES",Warner TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="MOVIES",Warner TV
 http://mantul.biz.id:8888/prem20/Premium123/49
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="MOVIES",AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MOVIES",AXN
 http://mantul.biz.id:8888/prem20/Premium123/199
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="MOVIES",FX
@@ -290,16 +290,16 @@ http://mantul.biz.id:8888/prem20/Premium123/29
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRn0O3FFKL7WvCyav8QFXNbTYBCQl16J0_KJbb6hbaSgXqZvuir" group-title="MOVIES",KBS World
 http://mantul.biz.id:8888/prem20/Premium123/266
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="MOVIES",Hits
+#EXTINF:-1 tvg-logo="https://worldscreen.com/tvasia/wp-content/uploads/sites/16/2017/07/HITS-640-310x165.jpg" group-title="MOVIES",Hits
 http://mantul.biz.id:8888/prem20/Premium123/72
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="MOVIES",Hits Movies
+#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="MOVIES",Hits Movies
 http://mantul.biz.id:8888/prem20/Premium123/71
 
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/thumbs/5a0ac9495a997e1c2cea10b8.png" group-title="MOVIES",Cinema World
 http://mantul.biz.id:8888/prem20/Premium123/256
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Thrill.id.png" group-title="MOVIES",Thrill
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/340?cb=20170606050150" group-title="MOVIES",Thrill
 http://mantul.biz.id:8888/prem20/Premium123/250
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYWLmpuWsoLTNo3tacjOKRSXPkaK0IMX72DbcDQO227cs0ZPlV" group-title="MOVIES",Celestial Movies
@@ -345,30 +345,6 @@ http://mantul.biz.id:8888/prem20/Premium123/151
 #EXTINF:-1 tvg-logo="https://www.ebu.ch/files/live/sites/ebu/files/About/Members%20Logos/Associate%20Members%20Logos/Australia-ABC.png" group-title="WORLD",ABC News Live
 http://mantul.biz.id:8888/prem20/Premium123/299
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/d/d7/TV_1%28Malaysia%29baru.png/375px-TV_1%28Malaysia%29baru.png" group-title="WORLD",RTM 1
-http://mantul.biz.id:8888/prem20/Premium123/308
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/1184px-Logo_of_TV2_%28Malaysia%29.svg.png" group-title="WORLD",RTM 2
-http://mantul.biz.id:8888/prem20/Premium123/367
-
-#EXTINF:-1 tvg-tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png" group-title="WORLD",RTM 3
-http://mantul.biz.id:8888/prem20/Premium123/153
-
-#EXTINF:-1 tvg-logo="https://myklik.rtm.gov.my/image/tvBESlogo_thumbnail.png" group-title="WORLD",Berita RTM
-http://mantul.biz.id:8888/prem20/Premium123/309
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/1200px-XingXong.svg.png" group-title="WORLD",Xing Kong
-http://mantul.biz.id:8888/prem20/Premium123/200
-
-#EXTINF:-1 tvg-logo="https://www.k-vision.tv/uploads/2018/11/arirang-tv.jpg.pagespeed.ce.iLfw5icWiG.jpg" group-title="WORLD",Arirang
-http://mantul.biz.id:8888/prem20/Premium123/198
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkOyCcz.png" group-title="WORLD", Astro Awani
-http://mantul.biz.id:8888/prem20/Premium123/111
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/pptv-logo-png-6.png" group-title="WORLD",PPTV
-https://www.doofree88.com/streaming/hd-pptv_720/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/330px-WakuWaku_Japan_logo.svg.png" group-title="WORLD",WakuWaku Japan
 http://mantul.biz.id:8888/prem20/Premium123/238
 
@@ -405,11 +381,36 @@ http://mantul.biz.id:8888/prem20/Premium123/204
 #EXTINF:-1 tvg-logo="https://content.osn.com/bob/745x419/BTV.jpg" group-title="WORLD",Bloomberg International
 http://mantul.biz.id:8888/prem20/Premium123/123
 
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/11-111125_cctv-4-logo-hd-png-download.png" group-title="WORLD",CCTV 4 HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/43/ba/17/43ba17ed58bf0c88c7c9a7adac88b6a6.jpg" group-title="WORLD",CCTV 4 HD
 http://mantul.biz.id:8888/prem20/Premium123/149
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="WORLD",France 24
 http://mantul.biz.id:8888/prem20/Premium123/137
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/1200px-XingXong.svg.png" group-title="WORLD",Xing Kong
+http://mantul.biz.id:8888/prem20/Premium123/200
+
+#EXTINF:-1 tvg-logo="https://www.k-vision.tv/uploads/2018/11/arirang-tv.jpg.pagespeed.ce.iLfw5icWiG.jpg" group-title="WORLD",Arirang
+http://mantul.biz.id:8888/prem20/Premium123/198
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkOyCcz.png" group-title="WORLD", Astro Awani
+http://mantul.biz.id:8888/prem20/Premium123/111
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/pptv-logo-png-6.png" group-title="WORLD",PPTV
+https://www.doofree88.com/streaming/hd-pptv_720/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/d/d7/TV_1%28Malaysia%29baru.png/375px-TV_1%28Malaysia%29baru.png" group-title="WORLD",RTM 1
+http://mantul.biz.id:8888/prem20/Premium123/308
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/1184px-Logo_of_TV2_%28Malaysia%29.svg.png" group-title="WORLD",RTM 2
+http://mantul.biz.id:8888/prem20/Premium123/367
+
+#EXTINF:-1 tvg-tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Logo_of_TV3_%28Malaysia%29.svg" group-title="WORLD",RTM 3
+http://mantul.biz.id:8888/prem20/Premium123/153
+
+#EXTINF:-1 tvg-logo="https://myklik.rtm.gov.my/image/tvBESlogo_thumbnail.png" group-title="WORLD",Berita RTM
+http://mantul.biz.id:8888/prem20/Premium123/309
 
 ########### MUSIC ########### 
 
@@ -481,7 +482,7 @@ http://mantul.biz.id:8888/prem20/Premium123/232
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2.png" group-title="SPORT",Champions tv 2
 http://mantul.biz.id:8888/prem20/Premium123/253
 
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-3.png" group-title="SPORT",Champion TV 3
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2.png" group-title="SPORT",Champion TV 3
 http://mantul.biz.id:8888/prem20/Premium123/77
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="SPORT",FOX Sport 1
@@ -523,7 +524,7 @@ http://mantul.biz.id:8888/prem20/Premium123/498
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/689545865699139584/lTtOY34z_400x400.jpg" group-title="SPORT",Fight Sport
 http://mantul.biz.id:8888/prem20/Premium123/205
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/rtm_sports.png" group-title="SPORT", RTM Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="SPORT", RTM Sports
 http://mantul.biz.id:8888/prem20/Premium123/307
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="SPORT",Golf Life
