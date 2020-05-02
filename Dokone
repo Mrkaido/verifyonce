@@ -4,7 +4,7 @@
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/269px-MNCTV_MNC-Group.svg.png" group-title="LokalFTA",MNC
-http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="LokalFTA",Global TV
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
+https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
