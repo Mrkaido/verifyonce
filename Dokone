@@ -1,10 +1,10 @@
 ########### LokalFTA ########### 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0c/RCTI_tegak.png" group-title="LokalFTA",RCTI
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/gerbil/rcti_gerbil/playlist.m3u8
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/269px-MNCTV_MNC-Group.svg.png" group-title="LokalFTA",MNC
-https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="LokalFTA",Global TV
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/gerbil/gtv_gerbil/playlist.m3u8
+https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
